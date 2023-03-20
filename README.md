@@ -9,7 +9,8 @@ My areas of interest include[web development,database systems, mobile app develo
 Thank you for visiting my profile - feel free to explore my projects and connect with me. Let's create something amazing together!
 
 
-https://github-readme-stats.vercel.app/api?username=Henrich77&count_private=true&show_icons=true&theme=github_dark)%5D(https://github.com/Henrich77)
+[![Hemrich's Github Stats](https://github-readme-stats.vercel.app/api?username=Henrich77&count_private=true&show_icons=true&theme=github_dark)](https://github.com/Henrich77)
+
 
 
 
